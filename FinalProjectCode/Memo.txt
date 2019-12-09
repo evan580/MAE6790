@@ -1,0 +1,8 @@
+well.mat has x in 2nd place and y in 1st place, value should be scaled 5 times to get true value
+
+approach:
+
+1. treat intersections as nodes and build a graph:
+	constant speed between each node
+
+2. linear programming, to discretize 
