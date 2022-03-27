@@ -3,6 +3,7 @@ from plot import PlotGenerator
 import matplotlib.pyplot as plt
 import numpy as np
 
+#change2
 GRAPH = {
 	0: [1, 2],
 	1: [0, 3, 6],
