@@ -1,4 +1,3 @@
-#this is a change to merge into main branch
 from plot import PlotGenerator
 import matplotlib.pyplot as plt
 import numpy as np
